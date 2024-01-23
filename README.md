@@ -1,11 +1,11 @@
 # team-profile-generator
 ## Your Task
 
-Your task is to take the given starter code and convert it into a working Node.js command-line application. This application will use the Node.js concepts we have learnt in addition to TDD to create modules and get input from a client then dynamically render the pages.
+The task was to add to the starter code to create an application that uses the Node.js concepts we have learnt in addition to TDD to create modules and get input from a client then dynamically render the pages.
 
 ## User Story
 
-As a manager a user want to generate a webpage that displays my team's basic info so that a user can have quick access to their emails and GitHub profiles.
+As a manager a user wants to generate a webpage that displays my team's basic info so that a user can have quick access to their emails and GitHub profiles.
 
 ---
 
@@ -14,7 +14,7 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 To run the application, run 
 
 ```bash
-npm i
+npm install
 ```
 then
 
